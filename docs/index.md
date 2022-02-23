@@ -1,3 +1,9 @@
-## Genome sequences of Rhizopogon roseolus, Mariannaea elegans, Myrothecium verrucaria and Sphaerostilbella broomeana and the identification of biosynthetic gene clusters for fungal peptide natural products
+## antiSMASH Annotations
 
-[Link](melegans/index.html)
+[Rhizopogon roseolus Mykothek Nr 97.03](rroseolus/index.html)
+
+[Mariannaea elegans NBRC102301](melegans/index.html)
+
+[Myrothecium verrucaria DSM 2087](mverrucaria/index.html)
+
+[Sphaerostilbella broomeana TFC201724](sbroomeana/index.html)
