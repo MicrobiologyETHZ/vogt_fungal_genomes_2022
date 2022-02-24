@@ -1,5 +1,5 @@
 
-| Strain | Assembly | Glimmer HMM | Nucl. seqs | Protein seqs | antiSMASH | ENA record |
+| Strain | Assembly | Glimmer HMM | Nucl. seqs | Prot. seqs | antiSMASH | ENA record |
 | ------ | -------- | ----------- | ---------- | ------------ | --------- | ---------- |
 | Rhizopogon roseolus Mykothek Nr 97.03 | [fasta](data/rroseolus/rroseolus.fasta) | [GFF](data/rroseolus/rroseolus.gff) | [FNA](data/rroseolus/rroseolus.fna) | [FAA](data/rroseolus/rroseolus.faa) | [antiSMASH](rroseolus/index.html) | [ERS10521323](https://www.ebi.ac.uk/ena/browser/view/ERS10521323) |
 | Mariannaea elegans NBRC102301 | [fasta](data/melegans/melegans.fasta) | [GFF](data/melegans/melegans.gff) | [FNA](data/melegans/melegans.fna) | [FAA](data/melegans/melegans.faa) | [antiSMASH](melegans/index.html) | [ERS10521322](https://www.ebi.ac.uk/ena/browser/view/ERS10521322) |
